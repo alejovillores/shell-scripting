@@ -39,7 +39,7 @@ jobs:
           echo test, and deploy your project.
   job_2:
 # eligo en donde correrlo, ubuntu-latest,window-latest,macos-latest
-    runs-on:ubuntu-latest
+    runs-on: ubuntu-latest
 	
 # con este comando lo que estoy haciendo es que primero espere a que termine el job_1 antes de iniciar el dos
     needs: job_1
