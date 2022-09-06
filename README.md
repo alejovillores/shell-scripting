@@ -1,4 +1,4 @@
 # shell-scripting
-![GitHub Workflow Status](https://img.shields.io/github/workflow/status/alejovillores/shell-scripting/CI)
+![GitHub Workflow Status](https://github.com/alejovillores/shell-scripting/actions/workflows/blank.yml/badge.svg)
 
 Repositorio destinado al shell scripting y a la familiarizacion de GitHubs Actions
